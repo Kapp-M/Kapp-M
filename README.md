@@ -9,7 +9,7 @@ I build web applications and work on practical problems using software, data, an
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kapp-m.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github)](https://github.com/Kapp-M)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](linkedin.com/in/kalpmehta05/)
 
 </div>
 
@@ -51,18 +51,6 @@ A project using clustering, risk scoring, and AI to analyze simulated drone posi
 A messaging application built with C#, ASP.NET Blazor, MongoDB, and REST APIs.
 
 [View Project](YOUR_CONESTOGA_CONNECTS_REPOSITORY_URL)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kapp-M&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kapp-M&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
 
 ---
 

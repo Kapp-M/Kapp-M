@@ -20,7 +20,7 @@ I build web applications and work on practical problems using software, data, an
 ```text
 > Building: Full-stack applications and AI projects
 > Interested in: Backend systems, APIs, databases, and ML
-> Currently learning: Better software design and deployment
+> Currently learning: AI Tools and Automation 
 > Goal: Build useful software that solves real problems
 ```
 
